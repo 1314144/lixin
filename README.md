@@ -2,4 +2,4 @@
 - 姓名：**李心**
 - 班级：软件233
 - 以下是我的座右铭：
->Talk is cheap，show me the code！
+>Talk is cheap.Show me the code！
